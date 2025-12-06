@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "ないものねだり",
+  "base_artist": "KANA-BOON",
+  "createdAt": "2025-12-06T12:09:08.617036Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ないものねだり - Revenge THE FIRST TAKE",
+      "artist": "KANA-BOON feat. もっさ",
+      "has_synced": true,
+      "path": "select/01_ないものねだり_-_Revenge_THE_FIRST_TAKE_KANA-BOON_feat._もっさ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ないものねだり - Revenge THE FIRST TAKE",
+      "artist": "KANA-BOON, もっさ",
+      "has_synced": true,
+      "path": "select/02_ないものねだり_-_Revenge_THE_FIRST_TAKE_KANA-BOON,_もっさ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ないものねだり - Revenge THE FIRST TAKE",
+      "artist": "KANA-BOON feat. Mossa",
+      "has_synced": true,
+      "path": "select/03_ないものねだり_-_Revenge_THE_FIRST_TAKE_KANA-BOON_feat._Mossa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ないものねだり",
+      "artist": "Leola",
+      "has_synced": true,
+      "path": "select/04_ないものねだり_Leola.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ないものねだり\u0000",
+      "artist": "Leola\u0000",
+      "has_synced": true,
+      "path": "select/05_ないものねだり\u0000_Leola\u0000.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ないものねだり",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/06_ないものねだり_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ないものねだり",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/07_ないものねだり_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Naimono Nedari [ないものねだり]",
+      "artist": "DAOKO",
+      "has_synced": false,
+      "path": "select/08_Naimono_Nedari_[ないものねだり]_DAOKO.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ないものねだり",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/09_ないものねだり_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ないものねだり",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/10_ないものねだり_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ないものねだり",
+      "artist": "フジファブリック",
+      "has_synced": false,
+      "path": "select/11_ないものねだり_フジファブリック.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ないものねだり",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/12_ないものねだり_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ないものねだり ~Ask for the Moon~",
+      "artist": "たまちゃん",
+      "has_synced": false,
+      "path": "select/13_ないものねだり_~Ask_for_the_Moon~_たまちゃん.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ないものねだり ~Ask for the Moon~",
+      "artist": "Coro",
+      "has_synced": true,
+      "path": "select/14_ないものねだり_~Ask_for_the_Moon~_Coro.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ないものねだり - Revenge THE FIRST TAKE",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/15_ないものねだり_-_Revenge_THE_FIRST_TAKE_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ないものねだり",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/16_ないものねだり_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ないものねだり",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/17_ないものねだり_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ないものねだり",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/18_ないものねだり_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "ないものねだり",
+      "artist": "GO!GO!7188",
+      "has_synced": false,
+      "path": "select/19_ないものねだり_GO!GO!7188.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ないものねだり",
+      "artist": "KANA-BOON",
+      "has_synced": false,
+      "path": "select/pl_01_ないものねだり_KANA-BOON.txt"
+    }
+  ]
+}
